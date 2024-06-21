@@ -53,6 +53,10 @@ Bedrock is a WordPress boilerplate for developers that want to manage their proj
 
 See the [Bedrock installation documentation](https://roots.io/bedrock/docs/installation/).
 
+Additional Notes for Constructive: Make sure to update Wordpress Permalinks settings to any option other than Plain so that the API plugin will function properly.
+
+See constructivetestdb.sql.gz in this repository. It can be extracted and imported into your Wordpress installation to add ten blog posts to use with the plugin.
+
 ## Stay Connected
 
 - Join us on Discord by [sponsoring us on GitHub](https://github.com/sponsors/roots)
